@@ -1,0 +1,131 @@
+﻿School,Coach,SchoolWinPerc,CareerWinPercent,SeasonsAtSchool
+Air Force,Troy Calhoun,0.577,0.577,11
+Akron,Terry Bowden,0.413,0.616,6
+Alabama,Nick Saban,0.864,0.778,11
+Alabama at Birmingham,Bill Clark,0.5,0.63,1
+Appalachian State,Scott Satterfield,0.651,0.651,5
+Arizona,Kevin Sumlin,0.654,0.662,6
+Arizona State,Herm Edwards,,,0
+Arkansas,Chad Morris,0.378,0.378,3
+Arkansas State,Blake Anderson,0.608,0.608,4
+Army,Jeff Monken,0.48,0.588,4
+Auburn,Gus Malzahn,0.672,0.684,5
+Ball State,Mike Neu,0.25,0.25,2
+Baylor,Matt Rhule,0.083,0.46,1
+Boise State,Bryan Harsin,0.778,0.742,4
+Boston College,Steve Addazio,0.484,0.5,5
+Bowling Green,Mike Jinks,0.25,0.25,2
+Brigham Young,Kalani Sitake,0.5,0.5,2
+Buffalo,Lance Leipold,0.361,0.808,3
+California,Justin Wilcox,0.417,0.417,1
+Central Florida,Josh Heupel,,0.571,0
+Central Michigan,John Bonamego,0.538,0.538,3
+Charlotte,Brad Lambert,0.293,0.293,5
+Cincinnati,Luke Fickell,0.333,0.4,1
+Clemson,Dabo Swinney,0.771,0.771,10
+Coastal Carolina,Joe Moglia,0.692,0.692,6
+Colorado,Mike MacIntyre,0.397,0.41,5
+Colorado State,Mike Bobo,0.538,0.538,3
+Connecticut,Randy Edsall,0.494,0.467,13
+Duke,David Cutcliffe,0.468,0.518,10
+East Carolina,Scottie Montgomery,0.25,0.25,2
+Eastern Michigan,Chris Creighton,0.306,0.658,4
+Florida,Dan Mullen,,0.603,0
+Florida Atlantic,Lane Kiffin,0.786,0.657,1
+Florida International,Butch Davis,0.615,0.597,1
+Florida State,Willie Taggart,,0.523,0
+Fresno State,Jeff Tedford,0.714,0.601,1
+Georgia,Kirby Smart,0.75,0.75,2
+Georgia Southern,Chad Lunsford,,,0
+Georgia State,Shawn Elliott,0.583,0.444,1
+Georgia Tech,Paul Johnson,0.581,0.662,10
+Hawaii,Nick Rolovich,0.385,0.385,2
+Houston,Major Applewhite,0.538,0.538,2
+Illinois,Lovie Smith,0.208,0.208,2
+Indiana,Tom Allen,0.385,0.385,2
+Iowa,Kirk Ferentz,0.596,0.568,19
+Iowa State,Matt Campbell,0.44,0.613,2
+Kansas,David Beaty,0.083,0.083,3
+Kansas State,Bill Snyder,0.656,0.656,26
+Kent State,Sean Lewis,,,0
+Kentucky,Mark Stoops,0.419,0.419,5
+Liberty,Turner Gill,0.586,0.458,6
+Louisiana Tech,Skip Holtz,0.576,0.56,5
+Louisiana-Lafayette,Billy Napier,,,0
+Louisiana-Monroe,Matt Viator,0.333,0.637,2
+Louisville,Bobby Petrino,0.735,0.709,8
+LSU,Ed Orgeron,0.714,0.484,2
+Marshall,Doc Holliday,0.592,0.592,8
+Maryland,DJ Durkin,0.4,0.423,2
+Massachusetts,Mark Whipple,0.496,0.579,10
+Memphis,Mike Norvell,0.692,0.692,2
+Miami (Fla.),Mark Richt,0.731,0.739,2
+Miami (Ohio),Chuck Martin,0.327,0.692,4
+Michigan,Jim Harbaugh,0.718,0.694,3
+Michigan State,Mark Dantonio,0.69,0.656,11
+Middle Tennessee,Rick Stockstill,0.523,0.523,12
+Minnesota,P.J. Fleck,0.417,0.547,1
+Mississippi,Matt Luke,0.5,0.5,1
+Mississippi State,Joe Moorhead,,0.745,0
+Missouri,Barry Odom,0.44,0.44,2
+Navy,Ken Niumatalolo,0.636,0.636,11
+Nebraska,Scott Frost,0.731,0.731,2
+Nevada,Jay Norvell,0.25,0.25,1
+Nevada-Las Vegas,Tony Sanchez,0.333,0.333,3
+New Mexico,Bob Davie,0.4,0.481,6
+New Mexico State,Doug Martin,0.279,0.322,5
+North Carolina,Larry Fedora,0.558,0.592,6
+North Carolina State,Dave Doeren,0.531,0.626,5
+North Texas,Seth Littrell,0.519,0.519,2
+Northern Illinois,Rod Carey,0.647,0.647,6
+Northwestern,Pat Fitzgerald,0.572,0.572,12
+Notre Dame,Brian Kelly,0.593,0.707,7
+Ohio,Frank Solich,0.577,0.633,13
+Ohio State,Urban Meyer,0.901,0.851,6
+Oklahoma,Lincoln Riley,0.857,0.857,1
+Oklahoma State,Mike Gundy,0.683,0.683,13
+Old Dominion,Bobby Wilder,0.661,0.661,9
+Oregon,Mario Cristobal,,0.365,6
+Oregon State,Jonathan Smith,,,0
+Penn State,James Franklin,0.679,0.652,4
+Pittsburgh,Pat Narduzzi,0.553,0.553,3
+Purdue,Jeff Brohm,0.538,0.698,1
+Rice,Mike Bloomgren,,,0
+Rutgers,Chris Ash,0.25,0.25,2
+San Diego State,Rocky Long,0.688,0.568,7
+San Jose State,Brent Brennan,0.154,0.154,1
+South Alabama,Steve Campbell,,,0
+South Carolina,Will Muschamp,0.577,0.573,2
+South Florida,Charlie Strong,0.833,0.618,1
+Southern California,Clay Helton,0.73,0.73,4
+Southern Methodist,Sonny Dykes,,0.477,0
+Southern Mississippi,Jay Hopson,0.577,0.627,2
+Stanford,David Shaw,0.768,0.768,7
+Syracuse,Dino Babers,0.333,0.584,2
+Temple,Geoff Collins,0.538,0.538,1
+Tennessee,Jeremy Pruitt,,,0
+Texas,Tom Herman,0.538,0.744,1
+Texas A&M,Jimbo Fisher,,0.787,0
+Texas Christian,Gary Patterson,0.737,0.737,18
+Texas State,Everett Withers,0.167,0.468,2
+Texas Tech,Kliff Kingsbury,0.476,0.476,5
+Texas-El Paso,Dana Dimel,,0.435,0
+Texas-San Antonio,Frank Wilson,0.5,0.5,2
+Toledo,Jason Candle,0.75,0.75,3
+Troy,Neal Brown,0.658,0.658,3
+Tulane,Willie Fritz,0.375,0.659,2
+Tulsa,Philip Montgomery,0.474,0.474,3
+UCLA,Chip Kelly,,0.868,0
+Utah,Kyle Whittingham,0.665,0.665,14
+Utah State,Matt Wells,0.515,0.515,5
+Vanderbilt,Derek Mason,0.367,0.367,4
+Virginia,Bronco Mendenhall,0.32,0.641,2
+Virginia Tech,Justin Fuente,0.704,0.592,2
+Wake Forest,Dave Clawson,0.42,0.505,4
+Washington,Chris Petersen,0.685,0.816,4
+Washington State,Mike Leach,0.5,0.601,6
+West Virginia,Dana Holgorsen,0.589,0.589,7
+Western Kentucky,Mike Sanford Jr.,0.462,0.462,1
+Western Michigan,Tim Lester,0.5,0.603,1
+Wisconsin,Paul Chryst,0.829,0.671,3
+Wyoming,Craig Bohl,0.431,0.674,4
